@@ -6,6 +6,7 @@ int main()
     int num1, num2;
 
     std::cout << "Choose your first (first = #1) variable: ";
+    std::cout << "Choose your first (first = #1) variable: ";
 
     std::cin >> num1;
 
